@@ -1,0 +1,8 @@
+requests
+PyQt5
+numpy
+pandas
+scikit-learn
+statsmodels
+openai
+TextBlob
